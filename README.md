@@ -1,6 +1,6 @@
-![App Brewery Banner](Documentation/screenshot.png)
+![](Documentation/screenshot.png)
 
-# Xylophone
+# Quizler APP
 
 ## This is Fully Functional Quize APPs using swift
 MVC Pattern
